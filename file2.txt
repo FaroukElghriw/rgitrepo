@@ -1,1 +1,2 @@
 frist line in file2
+secdo line in file2
